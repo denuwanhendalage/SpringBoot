@@ -82,6 +82,7 @@
                     <url>jdbc:mysql://localhost:3306/store?createDatabaseIfNotExist=true</url>
                     <user>root</user>
                     <password>808959</password>
+                    <cleanDisabled>false</cleanDisabled>
                 </configuration>
             </plugin>
 
